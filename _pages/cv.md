@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 You can download my CV 
-  <a href="{{ base_path }}/files/cv.pdf" >here</a>.
+  <a href="/files/cv.pdf" >here</a>.
