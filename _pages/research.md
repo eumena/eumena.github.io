@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## Job Market Paper
+## *Job Market Paper*
 
 ### Stellar Skills: Superstar Firms and the Specialization of Human Capital
 
@@ -18,10 +18,10 @@ author_profile: true
 
 </details>
 
-## Other Working Papers
+## *Other Working Papers*
 
 ### Market Entry and Plant Location in Multiproduct Firms 
-*(with Juanma Castro-Vincenzi, Eduardo Morales and Alejandro Sabal)*
+*(with Juanma Castro-Vincenzi, Eduardo Morales and Alejandro Sabal)* [*(Slides)*](/files/cmms.pdf)
 
 <!-- [📄 PDF](/files/market-entry-paper.pdf) | [📊 Slides](/files/market-entry-slides.pdf) -->
 
@@ -44,7 +44,7 @@ author_profile: true
 <!-- [📄 PDF](/files/risk-organizational-paper.pdf) | [📊 Slides](/files/risk-organizational-slides.pdf) -->
 
 
-## Work in Progress
+## *Work in Progress*
 
 ### Misallocation in Product and Labor Markets 
 *(presented at Princeton University)*
