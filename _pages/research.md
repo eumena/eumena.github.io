@@ -21,7 +21,7 @@ author_profile: true
 ## *Other Working Papers*
 
 ### Market Entry and Plant Location in Multiproduct Firms 
-*(with [Juanma Castro-Vincenzi](https://www.castrovincenzi.com), Eduardo Morales and Alejandro Sabal)* [*(Slides)*](/files/cmms.pdf)
+*(with [Juanma Castro-Vincenzi](https://www.castrovincenzi.com), [Eduardo Morales](https://sites.google.com/site/edumoralescasado/) and [Alejandro Sabal](https://www.sabalalejandro.com))* [*(Slides)*](/files/cmms.pdf)
 
 <!-- [📄 PDF](/files/market-entry-paper.pdf) | [📊 Slides](/files/market-entry-slides.pdf) -->
 
