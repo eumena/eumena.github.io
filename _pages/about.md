@@ -10,7 +10,7 @@ I am a Ph.D. candidate in Economics at Princeton University, interested in macro
 
 My [research](/research/) focuses on how decisions by individual firms impact aggregate economic outcomes. I study how firms' heterogeneity in technology and market power influences an economy's innovation, human capital accumulation and supply chain resilience, and I quantify the implications for welfare.  
 
-E-mail me at eugenia[dot]menaguale[at]princeton[dot]edu and find my curriculum vitae [here](/CV/).
+E-mail me at eugenia[dot]menaguale[at]princeton[dot]edu and find my curriculum vitae [here](/cv/).
 <div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
   <!-- Interests -->
@@ -20,6 +20,7 @@ E-mail me at eugenia[dot]menaguale[at]princeton[dot]edu and find my curriculum v
       <li>Macroeconomics</li>
       <li>Technological change and labor markets</li>
       <li>Innovation and market structure</li>
+      <li>Aggregate productivity</li>
     </ul>
   </div>
 
