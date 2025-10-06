@@ -10,7 +10,7 @@ redirect_from:
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start; margin-bottom: 30px;">
   <!-- Profile Image -->
   <div style="flex: 0 0 200px; min-width: 150px;">
-    <img src="/images/bio-photo.jpg" alt="Eugenia Menaguale" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="/images/profile.png" alt="Eugenia Menaguale" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   
   <!-- Bio Text -->
