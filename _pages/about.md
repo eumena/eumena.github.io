@@ -1,7 +1,9 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Eugenia Menaguale"
 author_profile: false
+layout: single
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -9,8 +11,8 @@ redirect_from:
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: flex-start; margin-bottom: 30px;">
   <!-- Profile Image -->
-  <div style="flex: 0 0 200px; min-width: 150px;">
-    <img src="/images/profile.png" alt="Eugenia Menaguale" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="flex: 0 0 280px; min-width: 200px;">
+    <img src="/images/profile.png" alt="Eugenia Menaguale" style="width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </div>
   
   <!-- Bio Text -->
