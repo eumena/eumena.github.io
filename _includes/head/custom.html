@@ -14,4 +14,32 @@
 <link rel="icon" href="/images/favicon.ico" />
 <meta name="theme-color" content="#ffffff" />
 
+<!-- Custom styles -->
+<style>
+    /* Remove circular crop from author avatar */
+    .author__avatar img {
+        border-radius: 0 !important;
+        border: 1px solid #ddd;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Mobile text size improvements */
+    @media screen and (max-width: 768px) {
+        .page__content {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        li {
+            font-size: 1.1em;
+            line-height: 1.5;
+        }
+    }
+</style>
+
 <!-- end custom head snippets -->
