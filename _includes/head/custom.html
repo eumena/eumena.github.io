@@ -5,6 +5,80 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css" />
 
+<!-- Global site styling for consistent padding -->
+<style>
+    /* Make content stretch to full width and align with navigation consistently across all pages */
+    .page {
+        max-width: 100% !important;
+        margin: 0 auto;
+        padding-left: 1em;
+        padding-right: 3em;
+    }
+
+    .page__content {
+        max-width: 100% !important;
+    }
+
+    /* Hide hamburger menu on desktop */
+    @media (min-width: 769px) {
+        .greedy-nav button {
+            display: none !important;
+        }
+
+        /* Consistent padding across all pages */
+        .page {
+            padding-left: 1em;
+            padding-right: 3em;
+        }
+    }
+
+    /* Ensure masthead spans full width and aligns properly */
+    .masthead {
+        max-width: 100% !important;
+    }
+
+    .masthead__inner-wrap {
+        max-width: 100% !important;
+        padding-left: 1em;
+        padding-right: 3em;
+    }
+
+    .masthead__menu {
+        margin-left: 0 !important;
+    }
+
+    .greedy-nav {
+        padding-left: 0 !important;
+    }
+
+    .greedy-nav .visible-links {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    @media (max-width: 768px) {
+        .page {
+            padding-left: 1em;
+            padding-right: 1em;
+        }
+
+        .masthead__inner-wrap {
+            padding-left: 1em;
+            padding-right: 1em;
+        }
+    }
+
+    /* Ensure theme toggle button works properly */
+    #theme-toggle {
+        cursor: pointer !important;
+        pointer-events: auto !important;
+    }
+
+    #theme-toggle a {
+        pointer-events: auto !important;
+    }
+</style>
+
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png" />
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg" />
