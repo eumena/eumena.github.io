@@ -1,9 +1,9 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: false
 layout: single
-author_profile: true
+author_profile: false
+classes: wide
 ---
 
 ### Job Market Paper

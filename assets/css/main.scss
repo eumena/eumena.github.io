@@ -1,39 +1,45 @@
---- ---
+---
+---
+
 /*
  * This file controls what is imported from /_sass
  *
+ * IMPORTANT: The three dashes above MUST be on separate lines for Jekyll to process this SCSS file!
+ * Do NOT change them to "--- ---" or the CSS will not compile!
+ * 
  * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ * sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import "vendor/breakpoint/breakpoint",
+@import
+    "vendor/breakpoint/breakpoint",
 
-"themes",
-"theme/default",
-"theme/dark",
+    "themes",
+    "theme/default",
+    "theme/dark",
 
-"include/mixins",
-"vendor/susy/susy",
+    "include/mixins",
+    "vendor/susy/susy",
 
-"layout/reset",
-"layout/base",
+    "layout/reset",
+    "layout/base",
 
-"include/utilities",
-"layout/tables",
-"layout/buttons",
-"layout/notices",
-"layout/masthead",
-"layout/navigation",
-"layout/footer",
-"syntax",
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
 
-"layout/forms",
+    "layout/forms",
 
-"layout/page",
-"layout/archive",
-"layout/sidebar",
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
 
-"vendor/font-awesome/fontawesome",
-"vendor/font-awesome/solid",
-"vendor/font-awesome/brands"
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands"
 ;
