@@ -40,7 +40,7 @@ We develop a quantitative model in which firms decide where to produce and sell 
 ### Work in Progress
 
 "Product and Labor Market Power: Evidence from Firm-to-Firm Networks" 
-*(with [Chiara Motta](https://chimotta.github.io))*
+*(with [Chiara Motta](https://chimotta.github.io))*[*(Extended Abstract)*](/files/mm_ext_abstract.pdf)
 <details>
   <summary>Abstract</summary>
 
