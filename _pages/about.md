@@ -23,8 +23,12 @@ redirect_from:
     <p>My <a href="/research/">research</a> focuses on how decisions by individual firms impact aggregate economic outcomes. I study how firms' heterogeneity in technology and market power influences an economy's productivity, human capital accumulation and supply chain resilience, and I quantify the implications for welfare.</p>
     
     <p>E-mail me at <a href="mailto:eugenia.menaguale@princeton.edu">eugenia[dot]menaguale[at]princeton[dot]edu</a> and find my curriculum vitae <a href="/cv/">here</a>.</p>
+    
+    <p style="font-weight: bold; color: #555; margin: 20px 0; font-size: 1.05em;">
+      I will be on the 2025-2026 academic job market with this <a href="/files/em_jmp.pdf">paper</a>.
+    </p>
 
-     <p>I will be on the 2025-2026 academic job market. </p>
+
   </div>
 </div>
 
@@ -51,3 +55,12 @@ redirect_from:
     </ul>
   </div>
 </div>
+
+<div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #e0e0e0;">
+  <p>
+    <a href="https://github.com/eumena" target="_blank" style="text-decoration: none; margin: 0 15px;"><i class="fab fa-github" style="font-size: 1.3em; margin-right: 8px;"></i>GitHub</a>
+    <a href="https://scholar.google.com/citations?user=l1b0X3sAAAAJ&hl=en" target="_blank" style="text-decoration: none; margin: 0 15px;"><i class="fas fa-book" style="font-size: 1.3em; margin-right: 8px;"></i>Google Scholar</a>
+  </p>
+</div>
+
+     
