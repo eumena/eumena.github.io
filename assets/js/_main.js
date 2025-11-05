@@ -91,7 +91,8 @@ $(document).ready(function () {
     if (didResize) {
       didResize = false;
       bumpIt();
-    }}, 250);
+    }
+  }, 250);
   var didResize = false;
   bumpIt();
 
