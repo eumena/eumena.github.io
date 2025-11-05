@@ -47,3 +47,5 @@ We quantify these effects using newly linked Italian administrative data that co
 </p>
 
 <!-- [📄 PDF](/files/misallocation-paper.pdf) | [📊 Slides](/files/misallocation-slides.pdf) -->
+
+<span style="font-size: 1.2em;">"Firms' AI Skills and the Direction of Product Innovation"</span>*(with [David Argente](https://www.davidargente.com) and [Sara Moreira](https://www.spmoreira.com))* 
