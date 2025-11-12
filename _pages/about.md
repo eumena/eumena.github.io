@@ -24,7 +24,7 @@ redirect_from:
     
     <p>E-mail me at <a href="mailto:eugenia.menaguale@princeton.edu">eugenia[dot]menaguale[at]princeton[dot]edu</a> and find my curriculum vitae <a href="/cv/">here</a>.</p>
     
-    <p style="font-weight: bold; color: #555; margin: 20px 0; font-size: 1.05em;">
+    <p style="font-weight: bold; margin: 20px 0; font-size: 1.05em;">
       I will be on the 2025-2026 academic job market with this <a href="/files/em_jmp.pdf">paper</a>.
     </p>
 
