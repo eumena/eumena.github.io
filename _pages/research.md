@@ -27,7 +27,7 @@ We develop a quantitative model in which firms decide where to produce and sell 
 </p>
 
 
-<span style="font-size: 1.2em;">"Risk-based Organizational Choices"</span>  *(Draft coming soon)*
+<span style="font-size: 1.2em;">"Risk-based Organizational Choices"</span> 
 
 <p style="text-align: justify;">
 This paper studies how production uncertainty shapes firms’ organizational boundaries and, more broadly, the allocation of control within global supply chains. I develop a theoretical model of vertical integration under uncertainty about supplier performance and show that the gains from integration increase with the variance in supplier reliability. The model highlights a novel channel through which supply chain risk affects firm structure: integration can serve as a mechanism to insure against input disruptions by allowing the buyer to respond faster to productivity shocks that hit the supplier. Using establishment-level data, I find empirical support for this mechanism. Multinational firms operating in environments with greater supplier performance volatility tend to own a larger number of subsidiaries. The results contribute to the debate on supply chain resiliency by linking risk exposure to the organization of production within global firms.
