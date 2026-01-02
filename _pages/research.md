@@ -20,7 +20,7 @@ I test the theory in the digital infrastructure industry. Using large-scale job 
 ### Other Working Papers
 
 <span style="font-size: 1.2em;">"Market Entry and Plant Location in Multiproduct Firms"</span>
-*(with [Juanma Castro-Vincenzi](https://www.castrovincenzi.com), [Eduardo Morales](https://sites.google.com/site/edumoralescasado/) and [Alejandro Sabal](https://www.sabalalejandro.com))* ([Slides](/files/cmms.pdf)) *(Draft available upon request)*
+*(with [Juanma Castro-Vincenzi](https://www.castrovincenzi.com), [Eduardo Morales](https://sites.google.com/site/edumoralescasado/) and [Alejandro Sabal](https://www.sabalalejandro.com))* ([PDF](/files/cmms.pdf))
 
 <p style="text-align: justify;">
 We develop a quantitative model in which firms decide where to produce and sell each of their products. Cannibalization forces imply that our model exhibits substitutabilities in the firm's decision to sell different products in the same destination market; transport costs increasing in distance and increasing returns at the plant-product level imply our model displays complementarities in the firm decision to produce and sell the same model in geographically close markets. We provide a novel solution algorithm for multiple discrete choice single-agent problems where the sign of the interdependence between any pair of choices is known. We estimate our model using our solution method and data on the global car industry with information by firm, country, and car model on production, sales, and prices. We evaluate the effect of recently proposed production subsidies, consumption subsidies, and tariffs on the global structure of automobile production and prices and access to car varieties across countries.
@@ -28,6 +28,7 @@ We develop a quantitative model in which firms decide where to produce and sell 
 
 
 <span style="font-size: 1.2em;">"Risk-based Organizational Choices"</span> 
+([PDF](/files/3YP_Risk_organization.pdf))
 
 <p style="text-align: justify;">
 This paper studies how production uncertainty shapes firms’ organizational boundaries and, more broadly, the allocation of control within global supply chains. I develop a theoretical model of vertical integration under uncertainty about supplier performance and show that the gains from integration increase with the variance in supplier reliability. The model highlights a novel channel through which supply chain risk affects firm structure: integration can serve as a mechanism to insure against input disruptions by allowing the buyer to respond faster to productivity shocks that hit the supplier. Using establishment-level data, I find empirical support for this mechanism. Multinational firms operating in environments with greater supplier performance volatility tend to own a larger number of subsidiaries. The results contribute to the debate on supply chain resiliency by linking risk exposure to the organization of production within global firms.
