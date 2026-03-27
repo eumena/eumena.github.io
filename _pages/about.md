@@ -45,7 +45,7 @@ redirect_from:
   <div style="flex: 1; min-width: 300px;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>Ph.D. in Economics</strong><br><small>Princeton University (exp. June 2026)</small></li>
+      <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>Ph.D. in Economics</strong><br><small>Princeton University (exp. May 2026)</small></li>
       <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>M.A. in Economics</strong><br><small>Princeton University </small></li>
       <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>M.Sc. in Economic and Social Sciences</strong><br><small>Bocconi University</small></li>
       <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>B.Sc. in International Economics, Management and Finance</strong><br><small>Bocconi University</small></li>
