@@ -18,15 +18,12 @@ redirect_from:
   
   <!-- Bio Text -->
   <div style="flex: 1; min-width: 250px;">
-    <p>I am a Ph.D. candidate in Economics at Princeton University, interested in macroeconomics, firm dynamics and international trade.</p>
+    <p>I am a Ph.D. candidate in Economics at Princeton University, interested in macroeconomics, firm dynamics and international trade. In fall 2026, I will join the Department of Economics at Tufts University as an Assistant Professor.</p>
     
     <p>My <a href="/research/">research</a> focuses on how decisions by individual firms impact aggregate economic outcomes. I study how firms' heterogeneity in technology and market power influences an economy's productivity, human capital accumulation and supply chain resilience, and I quantify the implications for welfare.</p>
     
     <p>E-mail me at <a href="mailto:eugenia.menaguale@princeton.edu">eugenia[dot]menaguale[at]princeton[dot]edu</a> and find my curriculum vitae <a href="/cv/">here</a>.</p>
-    
-    <p>
-      In fall 2026, I will join the Department of Economics at Tufts University as an Assistant Professor.
-    </p>
+   
 
 
   </div>
