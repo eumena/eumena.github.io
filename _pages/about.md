@@ -18,11 +18,11 @@ redirect_from:
   
   <!-- Bio Text -->
   <div style="flex: 1; min-width: 250px;">
-    <p>I am a Ph.D. candidate in Economics at Princeton University, interested in macroeconomics, firm dynamics and international trade. In fall 2026, I will join the Department of Economics at Tufts University as an Assistant Professor.</p>
+   <p>I'm an Assistant Professor of Economics and a Neubauer Faculty Fellow at Tufts University. I received my Ph.D. in Economics from Princeton University in 2026. I'm interested in macroeconomics, firm dynamics and international trade.</p>
     
     <p>My <a href="/research/">research</a> focuses on how decisions by individual firms impact aggregate economic outcomes. I study how firms' heterogeneity in technology and market power influences an economy's productivity, human capital accumulation and supply chain resilience, and I quantify the implications for welfare.</p>
     
-    <p>E-mail me at <a href="mailto:eugenia.menaguale@princeton.edu">eugenia[dot]menaguale[at]princeton[dot]edu</a> and find my curriculum vitae <a href="/cv/">here</a>.</p>
+    <p>E-mail me at <a href="mailto:eugenia.menaguale@tufts.edu">eugenia[dot]menaguale[at]tufts[dot]edu</a> and find my curriculum vitae <a href="/cv/">here</a>.</p>
    
 
 
@@ -45,7 +45,7 @@ redirect_from:
   <div style="flex: 1; min-width: 300px;">
     <h2>Education</h2>
     <ul style="list-style: none; padding-left: 0;">
-      <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>Ph.D. in Economics</strong><br><small>Princeton University (exp. May 2026)</small></li>
+      <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>Ph.D. in Economics</strong><br><small>Princeton University </small></li>
       <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>M.A. in Economics</strong><br><small>Princeton University </small></li>
       <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>M.Sc. in Economic and Social Sciences</strong><br><small>Bocconi University</small></li>
       <li><i class="fas fa-graduation-cap" style="font-size: 0.8em; opacity: 0.6; margin-right: 8px;"></i><strong>B.Sc. in International Economics, Management and Finance</strong><br><small>Bocconi University</small></li>
